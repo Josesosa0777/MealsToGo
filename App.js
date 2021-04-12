@@ -18,7 +18,7 @@ const firebaseConfig = {
   projectId: "mealstogoproject",
   storageBucket: "mealstogoproject.appspot.com",
   messagingSenderId: "644224123246",
-  appId: "1:644224123246:web:a58becde018be884da417f"
+  appId: "1:644224123246:web:a58becde018be884da417f",
 };
 
 if (!firebase.apps.length) {
